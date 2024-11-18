@@ -1,0 +1,101 @@
+id,concorrente,fatturato
+1, microsoft azure,50B
+2,adobe,15.7B
+3,Johnson & Johnson,89.3B
+4,walt disney,59B
+5, microsoft azure,50B
+6,amazon,135.9B
+7,Acxiom,1.3B
+8,Moovit,0.7B
+9,google,110B
+10,tarana,0.2B
+11,google,110B
+12,disney,59B
+13,uber,7.9B
+14,kickstarter,0.1B
+15,MyOutDesk,0.3B
+16,Cisco,48B
+17,Housekeep,0.1B
+18,Walmart Labs,0.1B
+19,reddit,0.025B
+20,ITS partners,0.1B
+21,Riverbed,1.09B
+22,VMware,3.71B
+23,Convinctional,0.8B
+24,Varrentec,0.5B
+25,Akamai Technologies,1.15B
+26,Riverbed Technology,0.836B
+27,youtube,1B
+28,IBN Watson,77B
+29,Salesforce CRM,8.43B
+30,AirWatch,0.15B
+31,Conversant,0.57B
+32,Yahoo,1.6B
+33,Symantec,6.15B
+34,Fulcrum Biometrics,0.4B
+35,Clairvoyant,1.4B
+36,Havenly,0.15B
+37,Burger King,1.9B
+38,Kavita,0.015B
+39,Disney,18B
+40,Amazon Kuiper,10B
+41,Numerai,0.5B
+42,Steam,10B
+43,Moz,0.019B
+44,3GSolar Photovoltaics,0.015B
+45,Fulcrum BioEnergy,0.1B
+46,TuSimple,2B
+47,PrecisionHawk,0.14B
+48,Fideltus Advanced Technology,0.1B
+49,Mirasol,0.001B
+50,Peel Technologies,0.13B
+51,Wrench,0.5B
+52,logikal,0.13B
+53,Simplified,0.01B
+54,ConvertKit,0.1B
+55,Buildertrend,0.1B
+56,Back4App,0.01B
+57,Osano,0.04B
+58,Axios Local,0.2B
+59,LendingClub,0.2B
+60,Lambda Labs,1.5B
+61,OpenAI,60B
+62,Anduril,8.5B
+63,AI Dungeon,0.04B
+64,Grammarly,13B
+65,Sona,0.02B
+66,OctoML,0.13B
+67,Celestial AI,0.4B
+68,Weaviate,0.15B
+69,Soul Machines,0.13B
+70,OpenAI,80B
+71,Glean,2.2B
+72,Sarvam AI,0.05B
+73,Zippin,0.045B
+74,Sarvam AI,0.04B
+75,Gryphon.ai,0.02B
+76,HeyGen,0.4B
+77,Aitia,0.3B
+78,Armo,0.1B
+79,Kobiton,0.04B
+80,Claim Genius,0.013B
+81,ClickUp,4B
+82,Kalray,0.15B
+83,OpenAI,60B
+84,Allied Vision,29B
+85,PROS Holdings,1.4B
+86,Udemy,0.7B
+87,Mind Foundry,0.02B
+88,GoTranscript,0.04B
+89,Cloudflare,15B
+90,Orange Pi,0.01B
+91,Centric Software,0.26B
+92,Incognia,0.11B
+93,Senet,0.04B
+94,Perfect pic,0.01B
+95,WattCarbon,0.01B
+96,TSR Solutions,0.01B
+97,Okta,16B
+98,SAP Analytics Cloud,0.05B
+99,ETA,0.05B
+100,Versa Networks,0.7B

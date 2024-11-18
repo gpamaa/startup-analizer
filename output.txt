@@ -1,0 +1,1318 @@
+
+Random Forest
+Accuracy scores for each fold: 0.45 0.25 0.55 0.6 0.65 0.55 0.45 0.65 0.35 0.5 
+Mean accuracy: 0.5
+Accuracy: 0.4142857142857143
+Precision: 0.4199284511784511
+Recall: 0.3599206349206349
+F1 Score: 0.31992727343770994
+Predizione per i dati dell'utente:serie_c
+Probabilita' per i dati dell'utente:[[0.07109082 0.02047227 0.18764583 0.22691768 0.29264194 0.13958787
+  0.0616436 ]]
+
+XGBoost
+Accuracy scores for each fold: 0.55 0.45 0.65 0.55 0.6 0.7 0.65 0.55 0.35 0.55 
+Mean accuracy: 0.5599999999999999
+Accuracy: 0.45714285714285713
+Precision: 0.3771062271062271
+Recall: 0.33537414965986395
+F1 Score: 0.34081632653061217
+Predizione per i dati dell'utente:serie_a
+Probabilita' per i dati dell'utente:[[0.03509811 0.07641517 0.41430807 0.13438922 0.05441271 0.23873125
+  0.04664546]]
+
+ Cat boost
+Accuracy scores for each fold: 0.53 0.58 
+Mean accuracy: 0.5549999999999999
+Accuracy: 0.9875
+Precision: 0.989010989010989
+Recall: 0.989010989010989
+F1 Score: 0.9885714285714285
+Predizione per i dati dell'utente: serie_a
+Probabilita' per i dati dell'utente: [[0.05099643 0.07276275 0.37612905 0.15359009 0.19707883 0.1178325
+  0.03161036]]
+
+Random Forest
+Accuracy scores for each fold: 0.6666666666666666 0.5 0.55 0.6 0.7 0.6 0.4 0.65 0.4 0.5 
+Mean accuracy: 0.5566666666666666
+Accuracy: 0.5070422535211268
+Precision: 0.5011054421768708
+Recall: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.63337042 0.1101244  0.14890407 0.07020985 0.00970722 0.02368707
+  0.00399698]]
+
+XGBoost
+Accuracy scores for each fold: 0.47619047619047616 0.45 0.6 0.65 0.7 0.7 0.6 0.55 0.6 0.45 
+Mean accuracy: 0.5776190476190476
+Accuracy: 0.4788732394366197
+Precision: 0.4073870573870574
+Recall: 0.42625152625152624
+F1 Score: 0.4002267573696145
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.68132776 0.17975886 0.03063539 0.02970418 0.0270989  0.02612776
+  0.02534715]]
+
+ Cat boost
+Accuracy scores for each fold: 0.5346534653465347 0.54 
+Mean accuracy: 0.5373267326732674
+Accuracy: 0.9629629629629629
+Precision: 0.9751492702344097
+Recall: 0.9394841269841271
+F1 Score: 0.9540698957715764
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.73237069 0.17073901 0.03728962 0.02228172 0.02050764 0.00912514
+  0.00768619]]
+
+Random Forest
+Accuratezza per ogni classe: 0.6666666666666666 0.5 0.55 0.6 0.7 0.6 0.4 0.65 0.4 0.5 
+Accuratezza media: 0.5566666666666666
+Accuratezza: 0.5070422535211268
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.66266969 0.14402348 0.12157863 0.0568403  0.00551277 0.00627592
+  0.00309922]]
+
+Random Forest
+
+Accuratezza media: 0.5566666666666666
+Precisione: [nan nan nan nan nan nan nan nan nan nan]
+Richiamo: [nan nan nan nan nan nan nan nan nan nan]
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.73791479 0.11133161 0.09294137 0.04548035 0.00521865 0.00484735
+  0.00226589]]
+
+XGBoost
+Accuratezza per ogni classe: 0.47619047619047616 0.45 0.6 0.65 0.7 0.7 0.6 0.55 0.6 0.45 
+Accuratezza media: 0.5776190476190476
+Accuratezza: 0.4788732394366197
+Precisione: 0.4073870573870574
+Richiamo: 0.42625152625152624
+F1 Score: 0.4002267573696145
+Log Loss: 1.4434466536058783
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.70786566 0.16478916 0.02808418 0.02723052 0.02484219 0.02395193
+  0.02323633]]
+
+Random Forest
+
+Accuratezza media: [0.66666667 0.5        0.55       0.6        0.7        0.6
+ 0.4        0.65       0.4        0.5       ]
+Precisione: [nan nan nan nan nan nan nan nan nan nan]
+Richiamo: [nan nan nan nan nan nan nan nan nan nan]
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.73791479 0.11133161 0.09294137 0.04548035 0.00521865 0.00484735
+  0.00226589]]
+
+Random Forest
+
+Accuratezza media: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.73791479 0.11133161 0.09294137 0.04548035 0.00521865 0.00484735
+  0.00226589]]
+
+XGBoost
+Accuratezza per ogni classe: 0.47619047619047616 0.45 0.6 0.65 0.7 0.7 0.6 0.55 0.6 0.45 
+Accuratezza media: 0.5776190476190476
+Accuratezza: 0.4788732394366197
+Precisione: 0.4073870573870574
+Richiamo: 0.42625152625152624
+F1 Score: 0.4002267573696145
+Log Loss: 1.4434466536058783
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.70786566 0.16478916 0.02808418 0.02723052 0.02484219 0.02395193
+  0.02323633]]
+
+XGBoost
+
+Accuratezza media: nan
+Precisione: 0.6378174603174602
+Richiamo: 0.5776190476190476
+F1 Score: 0.5687607115107116
+Log Loss: nan
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.68132776 0.17975886 0.03063539 0.02970418 0.0270989  0.02612776
+  0.02534715]]
+
+XGBoost
+
+accuratezza: 0.5776190476190476
+Precisione: 0.4073870573870574
+Richiamo: 0.42625152625152624
+F1 Score: 0.4002267573696145
+Log Loss: 1.4434466536058783
+Predizione per i dati dell'utente:serie_b
+Probabilita' per i dati dell'utente:[[0.11864547 0.16182372 0.05722781 0.410715   0.06747744 0.13816258
+  0.04594798]]
+
+ Cat boost
+
+accuratezza: 0.5373267326732674
+Precisione: 0.9751492702344097
+Richiamo: 0.9394841269841271
+F1 Score: 0.9540698957715764
+Log Loss: 0.1228324060340102
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.47912259 0.0873559  0.14174593 0.08213166 0.16800512 0.02408904
+  0.01754975]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.31068513 0.11362841 0.29388573 0.20385886 0.04467879 0.01629574
+  0.01696733]]
+
+XGBoost
+
+accuratezza: 0.5776190476190476
+Precisione: 0.4073870573870574
+Richiamo: 0.42625152625152624
+F1 Score: 0.4002267573696145
+Log Loss: 1.4434466536058783
+Predizione per i dati dell'utente:seed
+Probabilita' per i dati dell'utente:[[0.19987935 0.3345601  0.20026974 0.0727779  0.06639472 0.06401536
+  0.06210281]]
+
+ Cat boost
+
+accuratezza: 0.5373267326732674
+Precisione: 0.9751492702344097
+Richiamo: 0.9394841269841271
+F1 Score: 0.9540698957715764
+Log Loss: 0.1228324060340102
+Predizione per i dati dell'utente: serie_a
+Probabilita' per i dati dell'utente: [[0.08827108 0.30660978 0.37127907 0.16402604 0.04498991 0.01215059
+  0.01267351]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:serie_b
+Probabilita' per i dati dell'utente:[[0.10346337 0.00809954 0.17173349 0.25339449 0.22029939 0.16088717
+  0.08212256]]
+
+XGBoost
+
+accuratezza: 0.5776190476190476
+Precisione: 0.4073870573870574
+Richiamo: 0.42625152625152624
+F1 Score: 0.4002267573696145
+Log Loss: 1.4434466536058783
+Predizione per i dati dell'utente:serie_b
+Probabilita' per i dati dell'utente:[[0.07582311 0.05784547 0.09129126 0.54286104 0.07426177 0.0863335
+  0.07158389]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:serie_b
+Probabilita' per i dati dell'utente:[[0.10456687 0.0083123  0.17503417 0.26299477 0.23013204 0.16662453
+  0.05233532]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:serie_b
+Probabilita' per i dati dell'utente:[[0.10346337 0.00809954 0.17173349 0.25339449 0.22029939 0.16088717
+  0.08212256]]
+
+XGBoost
+
+accuratezza: 0.5776190476190476
+Precisione: 0.4073870573870574
+Richiamo: 0.42625152625152624
+F1 Score: 0.4002267573696145
+Log Loss: 1.4434466536058783
+Predizione per i dati dell'utente:serie_b
+Probabilita' per i dati dell'utente:[[0.07582311 0.05784547 0.09129126 0.54286104 0.07426177 0.0863335
+  0.07158389]]
+
+ Cat boost
+
+accuratezza: 0.5373267326732674
+Precisione: 0.9751492702344097
+Richiamo: 0.9394841269841271
+F1 Score: 0.9540698957715764
+Log Loss: 0.1228324060340102
+Predizione per i dati dell'utente: serie_c
+Probabilita' per i dati dell'utente: [[0.0170235  0.0149467  0.03718335 0.0409596  0.65143544 0.22165587
+  0.01679553]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:serie_a
+Probabilita' per i dati dell'utente:[[0.09131595 0.04031917 0.40440966 0.29295106 0.1304655  0.02795579
+  0.01258286]]
+
+XGBoost
+
+accuratezza: 0.5776190476190476
+Precisione: 0.4073870573870574
+Richiamo: 0.42625152625152624
+F1 Score: 0.4002267573696145
+Log Loss: 1.4434466536058783
+Predizione per i dati dell'utente:serie_a
+Probabilita' per i dati dell'utente:[[0.05643009 0.05457215 0.4249167  0.30407202 0.07735856 0.03617046
+  0.04648001]]
+
+ Cat boost
+
+accuratezza: 0.5373267326732674
+Precisione: 0.9751492702344097
+Richiamo: 0.9394841269841271
+F1 Score: 0.9540698957715764
+Log Loss: 0.1228324060340102
+Predizione per i dati dell'utente: serie_a
+Probabilita' per i dati dell'utente: [[0.1429371  0.03269056 0.46188652 0.26910293 0.06164017 0.02298255
+  0.00876018]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:serie_c
+Probabilita' per i dati dell'utente:[[0.18769774 0.01004088 0.19000001 0.20152319 0.23431531 0.15079408
+  0.02562878]]
+
+XGBoost
+
+accuratezza: 0.5776190476190476
+Precisione: 0.4073870573870574
+Richiamo: 0.42625152625152624
+F1 Score: 0.4002267573696145
+Log Loss: 1.4434466536058783
+Predizione per i dati dell'utente:serie_b
+Probabilita' per i dati dell'utente:[[0.17077182 0.08835469 0.14212961 0.23075077 0.17684351 0.10272235
+  0.08842729]]
+
+ Cat boost
+
+accuratezza: 0.5373267326732674
+Precisione: 0.9751492702344097
+Richiamo: 0.9394841269841271
+F1 Score: 0.9540698957715764
+Log Loss: 0.1228324060340102
+Predizione per i dati dell'utente: serie_d
+Probabilita' per i dati dell'utente: [[0.19986362 0.02285213 0.0507508  0.15543006 0.07300313 0.47715135
+  0.0209489 ]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:serie_c
+Probabilita' per i dati dell'utente:[[0.11915737 0.01075517 0.20156033 0.22209786 0.26756351 0.15821927
+  0.02064649]]
+
+XGBoost
+
+accuratezza: 0.5776190476190476
+Precisione: 0.4073870573870574
+Richiamo: 0.42625152625152624
+F1 Score: 0.4002267573696145
+Log Loss: 1.4434466536058783
+Predizione per i dati dell'utente:serie_b
+Probabilita' per i dati dell'utente:[[0.1792244  0.09272792 0.0996682  0.24217206 0.18559662 0.10780673
+  0.09280412]]
+
+ Cat boost
+
+accuratezza: 0.5373267326732674
+Precisione: 0.9751492702344097
+Richiamo: 0.9394841269841271
+F1 Score: 0.9540698957715764
+Log Loss: 0.1228324060340102
+Predizione per i dati dell'utente: serie_d
+Probabilita' per i dati dell'utente: [[0.29820567 0.02189678 0.04274314 0.1685416  0.10182697 0.35094878
+  0.01583708]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:serie_c
+Probabilita' per i dati dell'utente:[[0.05916529 0.00987    0.20110286 0.20923507 0.26416453 0.19952621
+  0.05693604]]
+
+XGBoost
+
+accuratezza: 0.5776190476190476
+Precisione: 0.4073870573870574
+Richiamo: 0.42625152625152624
+F1 Score: 0.4002267573696145
+Log Loss: 1.4434466536058783
+Predizione per i dati dell'utente:serie_d
+Probabilita' per i dati dell'utente:[[0.12445311 0.08335345 0.11524775 0.16014683 0.17230271 0.21970971
+  0.12478644]]
+
+ Cat boost
+
+accuratezza: 0.5373267326732674
+Precisione: 0.9751492702344097
+Richiamo: 0.9394841269841271
+F1 Score: 0.9540698957715764
+Log Loss: 0.1228324060340102
+Predizione per i dati dell'utente: serie_d
+Probabilita' per i dati dell'utente: [[0.02290361 0.01642656 0.04632598 0.04067101 0.18420295 0.67500837
+  0.01446152]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.24574679 0.00592256 0.20202916 0.24280128 0.12126445 0.12321257
+  0.05902319]]
+
+XGBoost
+
+accuratezza: 0.5776190476190476
+Precisione: 0.4073870573870574
+Richiamo: 0.42625152625152624
+F1 Score: 0.4002267573696145
+Log Loss: 1.4434466536058783
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.7123559  0.02517417 0.02705834 0.0295257  0.03849794 0.14219303
+  0.02519485]]
+
+ Cat boost
+
+accuratezza: 0.5373267326732674
+Precisione: 0.9751492702344097
+Richiamo: 0.9394841269841271
+F1 Score: 0.9540698957715764
+Log Loss: 0.1228324060340102
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.31452627 0.0222146  0.05086749 0.28144339 0.05236877 0.26289918
+  0.0156803 ]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.73791479 0.11133161 0.09294137 0.04548035 0.00521865 0.00484735
+  0.00226589]]
+
+XGBoost
+
+accuratezza: 0.5776190476190476
+Precisione: 0.4073870573870574
+Richiamo: 0.42625152625152624
+F1 Score: 0.4002267573696145
+Log Loss: 1.4434466536058783
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.70786566 0.16478916 0.02808418 0.02723052 0.02484219 0.02395193
+  0.02323633]]
+
+ Cat boost
+
+accuratezza: 0.5373267326732674
+Precisione: 0.9751492702344097
+Richiamo: 0.9394841269841271
+F1 Score: 0.9540698957715764
+Log Loss: 0.1228324060340102
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.77232264 0.16102367 0.0270884  0.01495036 0.01278632 0.00624691
+  0.0055817 ]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.73791479 0.11133161 0.09294137 0.04548035 0.00521865 0.00484735
+  0.00226589]]
+
+XGBoost
+
+accuratezza: 0.5776190476190476
+Precisione: 0.4073870573870574
+Richiamo: 0.42625152625152624
+F1 Score: 0.4002267573696145
+Log Loss: 1.4434466536058783
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.70786566 0.16478916 0.02808418 0.02723052 0.02484219 0.02395193
+  0.02323633]]
+
+ Cat boost
+
+accuratezza: 0.5373267326732674
+Precisione: 0.9751492702344097
+Richiamo: 0.9394841269841271
+F1 Score: 0.9540698957715764
+Log Loss: 0.1228324060340102
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.77232264 0.16102367 0.0270884  0.01495036 0.01278632 0.00624691
+  0.0055817 ]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.6566886  0.10047446 0.11944137 0.06481369 0.03496865 0.02184735
+  0.00176589]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.66443406 0.10749827 0.13837475 0.06834529 0.0105597  0.00852204
+  0.00226589]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.66936967 0.10116494 0.10222823 0.07911239 0.02930728 0.00589998
+  0.01291752]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.73791479 0.11133161 0.09294137 0.04548035 0.00521865 0.00484735
+  0.00226589]]
+
+Random Forest
+
+accuratezza: 0.5566666666666666
+Precisione: 0.5011054421768708
+Richiamo: 0.45311355311355317
+F1 Score: 0.45404409641615556
+Log Loss: 1.2866214988903317
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.63337042 0.1101244  0.14890407 0.07020985 0.00970722 0.02368707
+  0.00399698]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40646804669352377
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.71294045 0.16159047 0.12546908]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40646804669352377
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.74792239 0.16188459 0.09019302]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.82802033 0.1315642  0.04041547]]
+
+ Cat boost
+
+accuratezza: 0.9155940594059406
+Precisione: 1.0
+Richiamo: 1.0
+F1 Score: 1.0
+Log Loss: 0.012055505419263281
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.90560589 0.08421754 0.01017656]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40646804669352377
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.74792239 0.16188459 0.09019302]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.82802033 0.1315642  0.04041547]]
+
+ Cat boost
+
+accuratezza: 0.9155940594059406
+Precisione: 1.0
+Richiamo: 1.0
+F1 Score: 1.0
+Log Loss: 0.012055505419263281
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.90560589 0.08421754 0.01017656]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40646804669352377
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.74792239 0.16188459 0.09019302]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.82802033 0.1315642  0.04041547]]
+
+ Cat boost
+
+accuratezza: 0.9155940594059406
+Precisione: 1.0
+Richiamo: 1.0
+F1 Score: 1.0
+Log Loss: 0.012055505419263281
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.90560589 0.08421754 0.01017656]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4063268178084152
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.09822049 0.00818434 0.89359517]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.04969107 0.09272268 0.85758626]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40632681780841523
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.09822049 0.00818434 0.89359517]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4063268178084152
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.09822049 0.00818434 0.89359517]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4063268178084152
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06251469 0.00878378 0.92870152]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.03311168 0.06120256 0.9056857 ]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40632681780841523
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06901359 0.00398964 0.92699678]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.03403604 0.03499474 0.93096924]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40632681780841523
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06350582 0.00378378 0.9327104 ]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.03403604 0.03499474 0.93096924]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40632681780841523
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06251469 0.00878378 0.92870152]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.03311168 0.06120256 0.9056857 ]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40632681780841523
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06251469 0.00878378 0.92870152]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40632681780841523
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06251469 0.00878378 0.92870152]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.03311168 0.06120256 0.9056857 ]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40632681780841523
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06251469 0.00878378 0.92870152]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.03311168 0.06120256 0.9056857 ]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40632681780841523
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06251469 0.00878378 0.92870152]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4063268178084152
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06251469 0.00878378 0.92870152]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40632681780841523
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06251469 0.00878378 0.92870152]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40632681780841523
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06251469 0.00878378 0.92870152]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40632681780841523
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06251469 0.00878378 0.92870152]]
+
+Random Forest
+
+accuratezza: 0.9204761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.40632681780841523
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06251469 0.00878378 0.92870152]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.03311168 0.06120256 0.9056857 ]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.03311168 0.06120256 0.9056857 ]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.03311168 0.06120256 0.9056857 ]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.03311168 0.06120256 0.9056857 ]]
+
+XGBoost
+
+accuratezza: 0.9004761904761904
+Precisione: 0.5809018567639258
+Richiamo: 0.5777777777777778
+F1 Score: 0.577056277056277
+Log Loss: 0.4258801053167157
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.03311168 0.06120256 0.9056857 ]]
+
+ Cat boost
+
+accuratezza: 0.9155940594059406
+Precisione: 0.6111111111111112
+Richiamo: 0.6666666666666666
+F1 Score: 0.6363636363636364
+Log Loss: 0.1332783801251504
+Predizione per i dati dell'utente: dead
+Probabilita' per i dati dell'utente: [[0.90249857 0.07736522 0.02013621]]
+
+XGBoost
+
+accuratezza: 0.8857142857142858
+F1 Score: 0.6441217685896958
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.5983899  0.25964516 0.14196493]]
+
+XGBoost
+
+accuratezza: 0.8857142857142858
+F1 Score: 0.6441217685896958
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.79206103 0.13255747 0.07538149]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8598862  0.06746978 0.07264405]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8598862  0.06746978 0.07264405]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8629509  0.06771024 0.06933885]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8629509  0.06771024 0.06933885]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8629509  0.06771024 0.06933885]]
+
+Random Forest
+
+Random Forest
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8629509  0.06771024 0.06933885]]
+
+Random Forest
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8629509  0.06771024 0.06933885]]
+
+Random Forest
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8629509  0.06771024 0.06933885]]
+
+Random Forest
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06674255 0.20887417 0.7243833 ]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8629509  0.06771024 0.06933885]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.81376684 0.11008771 0.0761454 ]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8629509  0.06771024 0.06933885]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.6395992  0.22880843 0.1315924 ]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8296961  0.10363709 0.0666668 ]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.6324652  0.23333757 0.1341972 ]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.0602431  0.06461398 0.87514293]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8629509  0.06771024 0.06933885]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8629509  0.06771024 0.06933885]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.85219467 0.06686626 0.08093907]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8801039  0.03628556 0.08361051]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6277803201658915
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.0607781  0.05630703 0.8829149 ]]
+
+XGBoost
+
+accuratezza: 0.9814488784559208
+F1 Score: 0.9814609521473302
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.9740011  0.02453702 0.00146181]]
+
+XGBoost
+
+accuratezza: 0.9664596273291925
+F1 Score: 0.966477214326428
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.96038175 0.03736329 0.00225498]]
+
+XGBoost
+
+accuratezza: 0.9641476880607316
+F1 Score: 0.9641682597251734
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.96783316 0.0296884  0.00247834]]
+
+XGBoost
+
+accuratezza: 0.9712905452035887
+F1 Score: 0.9711703571533686
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.9616842  0.03393479 0.00438099]]
+
+XGBoost
+
+accuratezza: 0.9856797791580401
+F1 Score: 0.9856569991206131
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.97809243 0.01872341 0.00318422]]
+
+XGBoost
+
+accuratezza: 0.9688750862663906
+F1 Score: 0.9685171710349015
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.9581586  0.03886062 0.00298075]]
+
+XGBoost
+
+accuratezza: 0.9785024154589371
+F1 Score: 0.9783860245618538
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.9584271  0.03868468 0.00288817]]
+
+XGBoost
+
+accuratezza: 0.9784679089026915
+F1 Score: 0.9784029075706755
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.92330796 0.06705677 0.00963522]]
+
+XGBoost
+
+accuratezza: 0.9664596273291925
+F1 Score: 0.966256920513341
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.98064375 0.01699424 0.00236199]]
+
+XGBoost
+
+accuratezza: 0.971256038647343
+F1 Score: 0.9710717642381598
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.87121105 0.00409317 0.12469579]]
+
+XGBoost
+
+accuratezza: 0.9689095928226363
+F1 Score: 0.9687928196786538
+Predizione per i dati dell'utente:seed
+Probabilita' per i dati dell'utente:[[0.00524841 0.92148817 0.07326348]]
+
+XGBoost
+
+accuratezza: 0.9664941338854383
+F1 Score: 0.9664596246806282
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[8.8599988e-04 9.9136145e-04 9.9812263e-01]]
+
+XGBoost
+
+accuratezza: 0.9689095928226363
+F1 Score: 0.9686521127294815
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.82807183 0.16846184 0.00346635]]
+
+XGBoost
+
+accuratezza: 0.9736714975845411
+F1 Score: 0.9736163801651004
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.944068   0.05381903 0.00211298]]
+
+XGBoost
+
+accuratezza: 0.8461081402257874
+F1 Score: 0.5968762073585302
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.93089163 0.03369536 0.03541307]]
+
+XGBoost
+
+accuratezza: 0.9007724301841948
+F1 Score: 0.6353105316200555
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.9764162  0.01353576 0.01004806]]
+
+XGBoost
+
+accuratezza: 0.9055258467023174
+F1 Score: 0.6453479997199826
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.93746686 0.03696758 0.02556563]]
+
+XGBoost
+
+accuratezza: 0.8911170528817588
+F1 Score: 0.6371660111856191
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.8843416  0.04163342 0.07402503]]
+
+XGBoost
+
+accuratezza: 0.9105763517528224
+F1 Score: 0.6467305585680327
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.9634894  0.01486559 0.02164497]]
+
+XGBoost
+
+accuratezza: 0.8761140819964349
+F1 Score: 0.6178759233161863
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.97174263 0.0083309  0.01992643]]
+
+XGBoost
+
+accuratezza: 0.8957219251336898
+F1 Score: 0.6260261293703394
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.89074785 0.04871462 0.06053761]]
+
+XGBoost
+
+accuratezza: 0.9007724301841948
+F1 Score: 0.6345697908793148
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.99356467 0.00246602 0.0039693 ]]
+
+XGBoost
+
+accuratezza: 0.9058229352346999
+F1 Score: 0.6407422194467013
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.9763706  0.00806272 0.01556672]]
+
+XGBoost
+
+accuratezza: 0.9006238859180037
+F1 Score: 0.6388016320722966
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.977644   0.01156509 0.0107909 ]]
+
+XGBoost
+
+accuratezza: 0.890819964349376
+F1 Score: 0.6285851152055024
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.93498826 0.02824583 0.03676592]]
+
+XGBoost
+
+accuratezza: 0.8709150326797386
+F1 Score: 0.6002715728075841
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.00779779 0.00778785 0.98441434]]
+
+XGBoost
+
+accuratezza: 0.8709150326797386
+F1 Score: 0.6150504690237976
+Predizione per i dati dell'utente:dead
+Probabilita' per i dati dell'utente:[[0.95723736 0.01426781 0.02849482]]
+
+XGBoost
+
+accuratezza: 0.8810160427807486
+F1 Score: 0.6198531172841905
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.23952214 0.02028592 0.74019194]]
+
+XGBoost
+
+accuratezza: 0.8909685086155674
+F1 Score: 0.6256172324597377
+Predizione per i dati dell'utente:series
+Probabilita' per i dati dell'utente:[[0.06970547 0.02214144 0.90815306]]
